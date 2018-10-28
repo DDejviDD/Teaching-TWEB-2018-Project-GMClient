@@ -1,0 +1,18 @@
+{
+  "name": "gmclient",
+  "version": "1.0.0",
+  "description": "GM Client",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "live-server"
+  },
+  "author": "Frueh Loic & Muaremy Dejvid",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "liveserver": "^0.1.20"
+  }
+}

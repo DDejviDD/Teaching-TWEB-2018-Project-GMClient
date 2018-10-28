@@ -1,0 +1,37 @@
+#chart-part
+{
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+select
+{
+  width: 200px;
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+
+#placeholder
+{
+  text-align: center;
+  color: gray;
+}
+
+.about
+{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  width: 60%;
+  text-align: justify;
+  font-size: 1.3em;
+  letter-spacing: 0.05em;
+  line-height: 1.8em;
+  margin: 0 auto;
+
+}
+
+.about-title
+{
+  font-size: 2em !important;
+}
